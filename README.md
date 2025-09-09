@@ -87,7 +87,7 @@ The first visualization is a line chart titled "Total Ridership by Year, Quarter
 
 
 
- 2.Total Ridership based on Highest and Lowest Stops
+ 2. Total Ridership based on Highest and Lowest Stops
 
  
  <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/e8059423-a3e6-4c9b-bfe9-8d3f74db2157" />
@@ -96,7 +96,7 @@ The first visualization is a line chart titled "Total Ridership by Year, Quarter
 Combination of bar charts and a geographic map Key insights suggest increasing service frequency at busy downtown stops and adjusting service at lower- ridership suburban locations i.e.,Delaware St & New York St as the busiest stop and 10th St & Euclid Ave as the least busy, with central Indianapolis showing the highest activity. Clear weekday vs. weekend variations support the need for peak-hour scheduling, and seasonal fluctuations highlight the influence of weather and special events on transit demand.
 
 
-3.Enhanced dashboard visualization showing Total Ridership trends by Year, Month, and Day, with breakdowns across days of the week and months for detailed temporal analysis
+3. Enhanced dashboard visualization showing Total Ridership trends by Year, Month, and Day, with breakdowns across days of the week and months for detailed temporal analysis
 
 
 <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/22a4a78d-18a2-41a4-9999-2076582f8202" />
@@ -106,7 +106,7 @@ The redesigned dashboard introduced filters by year, month, and day, enabling be
 
 
 
-4.Count of Arrive and Departs across routes
+4. Count of Arrive and Departs across routes
 
 <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/cb712e93-6c80-48a0-bb7f-dfe5368c4048" />
 
@@ -117,7 +117,7 @@ Bar chart comparing Count of ArriveBoards and DepartBoards across routes, highli
 
 
 
-5.Analyzing the Balance of Coverage, Frequency, and Reach in IndyGo Routes
+5. Analyzing the Balance of Coverage, Frequency, and Reach in IndyGo Routes
 
 <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/7d2fbb63-e58d-4ccf-8819-cefe865e0d7b" />
 
@@ -126,5 +126,15 @@ Visualizes service distribution across 2023–2024, showing that most routes fal
 
 
 
-6.
+6. Understanding Transit Ridership Trends Over Time
+
+
+<img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/72815f24-cdcf-4c74-a815-d261c2b4d6d4" />
+
+
+This presents ridership trends across bidding periods, showing peaks during Bid 1 (Jan–Mar) and Bid 4 (Oct–Dec), with steady annual growth. Together, these dashboards provide a detailed understanding of IndyGo’s operational distribution and temporal ridership patterns.
+
+
+
+
 
