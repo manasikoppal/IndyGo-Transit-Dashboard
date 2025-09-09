@@ -85,7 +85,11 @@ Documented assumptions and transformations for transparency and reproducibility.
 The first visualization is a line chart titled "Total Ridership by Year, Quarter, Month, and Day," showing cyclical ridership trends from April 2022 to June 2024, with weekday ridership consistently higher than weekends.
 
 
+
+
  2.Total Ridership based on Highest and Lowest Stops
+
+ 
  <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/e8059423-a3e6-4c9b-bfe9-8d3f74db2157" />
 
 
