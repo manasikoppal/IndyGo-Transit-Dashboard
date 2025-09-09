@@ -94,3 +94,13 @@ The first visualization is a line chart titled "Total Ridership by Year, Quarter
 
 
 Combination of bar charts and a geographic map Key insights suggest increasing service frequency at busy downtown stops and adjusting service at lower- ridership suburban locations i.e.,Delaware St & New York St as the busiest stop and 10th St & Euclid Ave as the least busy, with central Indianapolis showing the highest activity. Clear weekday vs. weekend variations support the need for peak-hour scheduling, and seasonal fluctuations highlight the influence of weather and special events on transit demand.
+
+
+3.Enhanced dashboard visualization showing Total Ridership trends by Year, Month, and Day, with breakdowns across days of the week and months for detailed temporal analysis
+
+
+<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/22a4a78d-18a2-41a4-9999-2076582f8202" />
+
+
+The redesigned dashboard (Fig. 4) introduced filters by year, month, and day, enabling better peak period identification.
+
