@@ -71,3 +71,9 @@ Standardized field names, formats, and data types across tables.
 Aggregated and filtered the FactSegmentAdherence table for efficient dashboard integration.
 
 Documented assumptions and transformations for transparency and reproducibility.
+
+
+**Visualization**
+<img width="225" height="138" alt="image" src="https://github.com/user-attachments/assets/2b976685-3e04-4fa7-9adb-f47e57ba5afa" />
+
+ 
