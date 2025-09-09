@@ -20,6 +20,9 @@ Our dashboard was built to answer the following key questions about IndyGo rider
 
 
 **Data**
+
+
+
 The IndyGo ridership dataset was provided by IndyGo and integrates multiple sources, including:
 
 GPS trackers (bus movement and scheduling)
