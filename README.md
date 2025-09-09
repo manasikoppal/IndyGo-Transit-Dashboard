@@ -104,3 +104,12 @@ Combination of bar charts and a geographic map Key insights suggest increasing s
 
 The redesigned dashboard introduced filters by year, month, and day, enabling better peak period identification.
 
+
+
+4.Count of Arrive and Departs across routes
+
+<img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/cb712e93-6c80-48a0-bb7f-dfe5368c4048" />
+
+
+Bar chart comparing Count of ArriveBoards and DepartBoards across routes, highlighting ridership trends for specific routes over the past 12 months.
+
