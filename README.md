@@ -6,14 +6,14 @@ The IndyGo Ridership Dashboard is an interactive visualization tool developed fo
 
 Our dashboard was built to answer the following key questions about IndyGo ridership:
 
-What is the total ridership across different time scales (day, week, month, year)?
+1. What is the total ridership across different time scales (day, week, month, year)?
 
-How does ridership vary across different route categories, such as high-frequency routes, rapid transit, and coverage services?
+2. How does ridership vary across different route categories, such as high-frequency routes, rapid transit, and coverage services?
 
-What are the ridership trends for specific routes over the past 12 months?
+3. What are the ridership trends for specific routes over the past 12 months?
 
-How do ridership levels change across different time frames, including monthly, by bid period, or over rolling five-week windows?
+4. How do ridership levels change across different time frames, including monthly, by bid period, or over rolling five-week windows?
 
-What are the changes in ridership over time, such as month-to-month, year-over-year, or week-to-week?
+5. What are the changes in ridership over time, such as month-to-month, year-over-year, or week-to-week?
 
-Which stops experience the highest and lowest ridership, and how can these insights inform resource allocation?
+6. Which stops experience the highest and lowest ridership, and how can these insights inform resource allocation?
