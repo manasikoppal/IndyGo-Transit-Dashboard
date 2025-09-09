@@ -78,6 +78,9 @@ Documented assumptions and transformations for transparency and reproducibility.
 
 
 1. Total Ridership by Year, Quater, Month and Day
-<img width="225" height="138" alt="image" src="https://github.com/user-attachments/assets/2b976685-3e04-4fa7-9adb-f47e57ba5afa" />
+<img width="445" height="338" alt="image" src="https://github.com/user-attachments/assets/2b976685-3e04-4fa7-9adb-f47e57ba5afa" />
+
+
+
 The first visualization (Fig. 2) is a line chart titled "Total Ridership by Year, Quarter, Month, and Day," showing cyclical ridership trends from April 2022 to June 2024, with weekday ridership consistently higher than weekends.
  
