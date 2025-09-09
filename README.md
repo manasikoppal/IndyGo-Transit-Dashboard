@@ -78,9 +78,15 @@ Documented assumptions and transformations for transparency and reproducibility.
 
 
 1. Total Ridership by Year, Quater, Month and Day
-<img width="445" height="338" alt="image" src="https://github.com/user-attachments/assets/2b976685-3e04-4fa7-9adb-f47e57ba5afa" />
+<img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/2b976685-3e04-4fa7-9adb-f47e57ba5afa" />
 
 
 
-The first visualization (Fig. 2) is a line chart titled "Total Ridership by Year, Quarter, Month, and Day," showing cyclical ridership trends from April 2022 to June 2024, with weekday ridership consistently higher than weekends.
- 
+The first visualization is a line chart titled "Total Ridership by Year, Quarter, Month, and Day," showing cyclical ridership trends from April 2022 to June 2024, with weekday ridership consistently higher than weekends.
+
+
+ 2.Total Ridership based on Highest and Lowest Stops
+ <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/e8059423-a3e6-4c9b-bfe9-8d3f74db2157" />
+
+
+Combination of bar charts and a geographic map Key insights suggest increasing service frequency at busy downtown stops and adjusting service at lower- ridership suburban locations i.e.,Delaware St & New York St as the busiest stop and 10th St & Euclid Ave as the least busy, with central Indianapolis showing the highest activity. Clear weekday vs. weekend variations support the need for peak-hour scheduling, and seasonal fluctuations highlight the influence of weather and special events on transit demand.
