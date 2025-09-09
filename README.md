@@ -44,3 +44,30 @@ Format: CSV files structured into fact and dimension tables for use in Power BI.
 | **DimVehicle**           | 2,570      | Missing `DeleteDate` in some entries                               |
 | **DimUser / DimUser2**   | 2,123 each | Major missing values in `LogonID`, `Email`, `Phone`                |
 | **FactSegmentAdherence** | 20.6M      | Core adherence/ridership data, very large; required heavy cleaning |
+
+
+**Data Cleaning & Challenges**
+
+Working with the IndyGo dataset required significant preprocessing to ensure accurate and reliable analysis.
+
+- Challenges Encountered
+
+Missing Values: Several fields (e.g., RouteMode, RouteDescIVR, DeleteDate, and user contact fields) were incomplete.
+
+Invalid / Negative IDs: Some tables (e.g., DimTrip, DimBlock, DimVehicle) contained negative keys or inconsistent identifiers.
+
+Incomplete Metadata: Gaps in route/service type classification limited precise grouping of routes.
+
+Large Dataset Size: The FactSegmentAdherence table contained over 20 million rows, creating performance and computational challenges when loading into Power BI.
+
+- Cleaning Steps Taken
+
+Imputed or flagged missing values in route, stop, and user tables.
+
+Corrected negative or invalid IDs to ensure referential integrity.
+
+Standardized field names, formats, and data types across tables.
+
+Aggregated and filtered the FactSegmentAdherence table for efficient dashboard integration.
+
+Documented assumptions and transformations for transparency and reproducibility.
