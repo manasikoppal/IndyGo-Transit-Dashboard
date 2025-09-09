@@ -99,8 +99,8 @@ Combination of bar charts and a geographic map Key insights suggest increasing s
 3.Enhanced dashboard visualization showing Total Ridership trends by Year, Month, and Day, with breakdowns across days of the week and months for detailed temporal analysis
 
 
-<img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/22a4a78d-18a2-41a4-9999-2076582f8202" />
+<img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/22a4a78d-18a2-41a4-9999-2076582f8202" />
 
 
-The redesigned dashboard (Fig. 4) introduced filters by year, month, and day, enabling better peak period identification.
+The redesigned dashboard introduced filters by year, month, and day, enabling better peak period identification.
 
