@@ -113,3 +113,18 @@ The redesigned dashboard introduced filters by year, month, and day, enabling be
 
 Bar chart comparing Count of ArriveBoards and DepartBoards across routes, highlighting ridership trends for specific routes over the past 12 months.
 
+
+
+
+
+5.Analyzing the Balance of Coverage, Frequency, and Reach in IndyGo Routes
+
+<img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/7d2fbb63-e58d-4ccf-8819-cefe865e0d7b" />
+
+Visualizes service distribution across 2023–2024, showing that most routes fall under "Coverage" services, although "High Frequency" routes contribute significantly to ridership.
+
+
+
+
+6.
+
