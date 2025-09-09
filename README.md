@@ -19,7 +19,7 @@ Our dashboard was built to answer the following key questions about IndyGo rider
 6. Which stops experience the highest and lowest ridership, and how can these insights inform resource allocation?
 
 
-**Data**
+**Data** :
 
 
 
@@ -34,3 +34,13 @@ Schedule & service data (planned trips and routes)
 Coverage: 2022 – 2024
 Format: CSV files structured into fact and dimension tables for use in Power BI.
 
+| Table Name               | Records    | Notes / Issues                                                     |
+| ------------------------ | ---------- | ------------------------------------------------------------------ |
+| **DimBlock**             | 880        | Some missing `BlockDesc` and negative IDs                          |
+| **DimDate**              | 1,096      | Clean, complete calendar table                                     |
+| **DimRoute**             | 1,236      | Missing `RouteMode`, `RouteColor`                                  |
+| **DimStop**              | 19,349     | Gaps in `DeleteDate` field                                         |
+| **DimTrip**              | 226,133    | Some negative TripKeys                                             |
+| **DimVehicle**           | 2,570      | Missing `DeleteDate` in some entries                               |
+| **DimUser / DimUser2**   | 2,123 each | Major missing values in `LogonID`, `Email`, `Phone`                |
+| **FactSegmentAdherence** | 20.6M      | Core adherence/ridership data, very large; required heavy cleaning |
