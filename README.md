@@ -17,3 +17,16 @@ Our dashboard was built to answer the following key questions about IndyGo rider
 5. What are the changes in ridership over time, such as month-to-month, year-over-year, or week-to-week?
 
 6. Which stops experience the highest and lowest ridership, and how can these insights inform resource allocation?
+
+
+#Data
+The IndyGo ridership dataset was provided by IndyGo and integrates multiple sources, including:
+
+GPS trackers (bus movement and scheduling)
+
+Automatic Passenger Counters (APCs) (boarding and alighting counts)
+
+Schedule & service data (planned trips and routes)
+
+Coverage: 2022 – 2024
+Format: CSV files structured into fact and dimension tables for use in Power BI.
